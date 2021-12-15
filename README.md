@@ -1,5 +1,4 @@
-# Project Name
->  prediction of demand for shared bikes.
+# Prediction of demand for shared bikes.
 
 
 ## Table of Contents
